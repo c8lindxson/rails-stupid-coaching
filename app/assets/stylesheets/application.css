@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+
+
+ convo {
+  padding: 8px;
+ }
+
+ coach {
+  background-color: rgb(221, 221, 155);
+ }
+
+ h2 {
+  font-size: medium;
+ }
+
+ h3 {
+    color: grey;
+    font-size: small;
+ }
